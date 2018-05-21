@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const opn = require('opn');
 const search = process.argv[2];
 if(search) {

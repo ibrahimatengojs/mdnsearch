@@ -1,7 +1,10 @@
 {
-  "name": "mdn",
+  "name": "pb-mdn",
   "version": "1.0.0",
   "description": "Searches the MDN for given parameter",
+  "bin": {
+    "pb-mdn": "mdn.js"
+  },
   "main": "mdn.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
