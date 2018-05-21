@@ -1,0 +1,22 @@
+{
+  "name": "mdn",
+  "version": "1.0.0",
+  "description": "Searches the MDN for given parameter",
+  "main": "mdn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jckuhl/mdnsearch.git"
+  },
+  "author": "Jonathan Kuhl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jckuhl/mdnsearch/issues"
+  },
+  "homepage": "https://github.com/jckuhl/mdnsearch#readme",
+  "dependencies": {
+    "opn": "^5.3.0"
+  }
+}
